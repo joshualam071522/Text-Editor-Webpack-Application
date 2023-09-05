@@ -1,5 +1,5 @@
 # Text-Editor-Webpack-Application
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ![My Image](/text%20editor%20demo.png)
 
