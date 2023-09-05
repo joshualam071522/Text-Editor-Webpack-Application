@@ -27,8 +27,8 @@ module.exports = () => {
         description: 'A simple text editor',
         background_color: '#bbc28b',
         theme_color: '#bbc28b',
-        start_url: '/',
-        publicPath: '/',
+        start_url: './',
+        publicPath: './',
         icons: [
           {
             src: path.resolve('./src/images/logo.png'),
